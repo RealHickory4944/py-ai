@@ -1,5 +1,5 @@
 import pytest
-import py-ai
+import py_ai
 
 def test_thingy():
   message = "Hello"
