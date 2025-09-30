@@ -1,7 +1,7 @@
 import pytest
-import template
+import py-ai
 
 def test_thingy():
   message = "Hello"
-  result = template.thingy(message)
+  result = py-ai.thingy(message)
   assert message in result
